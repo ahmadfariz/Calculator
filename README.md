@@ -1,16 +1,19 @@
-# calculator
+# Calculator
 
-A new Flutter application.
+Sedang belajar dan mencoba
 
-## Getting Started
+## Saya Belajar Di
 
-This project is a starting point for a Flutter application.
+- [Membangun Aplikasi Kalkulator Dengan Flutter Sdk](https://medium.com/@reven.erlangga/membangun-aplikasi-kalkulator-dengan-flutter-sdk-bc65186bdf72)
 
-A few resources to get you started if this is your first Flutter project:
+Sedikit perbedaan di caranya menggunakan ClipboardManager tapi saat saya eksekusi tidak bisa
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```sh
+clipboard_manager:
+import 'package:clipboard_manager/clipboard_manager.dart';
+```
+Dan saya pakai
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+import package:flutter/services.dart.
+```
